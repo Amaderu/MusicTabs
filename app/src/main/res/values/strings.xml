@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MusicTabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="genre">
+        <item>Рок музыка</item>
+        <item>Поп музыка</item>
+        <item>Инструментальная музыка</item>
+        <item>Классичеcкая музыка</item>
+        <item>Диско музыка</item>
+        <item>Хип-хоп</item>
+    </string-array>
+
+    <string name="tab_music_pop">Поп музыка</string>
+    <string name="tab_music_rock">Рок музыка</string>
+    <string name="tab_music_insrumental">Инструментальная музыка</string>
+    <string name="tab_music_classik">Классичеcкая музыка</string>
+    <string name="tab_music_disco">Диско музыка</string>
+
+    <string name="btn_to_see_news">Просмотреть новости</string>
+    <string name="tv_news">Новости</string>
+    <string name="books">Книги</string>
+    <string name="news">Новости</string>
+    <string name="music">Музыка</string>
+</resources>
